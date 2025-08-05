@@ -1,2 +1,6 @@
 # To-Do List App
-A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add daily tasks along with due dates, and manage them with ease using a responsive, clean interface.
+A simple and responsive To-Do List web application built using HTML, CSS (Bootstrap), and JavaScript. This project allows users to:
+Add daily tasks with due dates
+Delete tasks with a single click
+Persist data using localStorage, so your tasks stay even after refreshing
+Clean UI styled with Bootstrap 5
